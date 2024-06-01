@@ -1,5 +1,5 @@
 # Tapioca Dao Security Review - 2024/05/15
-###### tags: `private`, `template`
+###### tags: `private`, `tapioca-dao`
 
 # Introduction 
 A security review of the [Tapioca Dao](https://www.tapioca.xyz/) protocol was done by Trumpero team. 
