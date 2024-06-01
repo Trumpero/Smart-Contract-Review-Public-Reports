@@ -43,10 +43,13 @@ Github - [Portfolio](https://github.com/Trumpero/Smart-Contract-Review-Public-Re
 **Low** - has too many or too unlikely assumptions or requires a significant stake by the attacker with little or no incentive.
 
 # Audit scope
+The [Tapioca-bar](https://github.com/Tapioca-DAO/Tapioca-bar) repository was audited at commit [71558e5a830a194c72ef4a9ef10a0f0997a3851e](https://github.com/Tapioca-DAO/Tapioca-bar/tree/71558e5a830a194c72ef4a9ef10a0f0997a3851e/contracts)
 
-
-
-
+The following contracts were in scope:
+* contracts/libraries/* 
+* contracts/markets/* 
+* contracts/usdo/* 
+* contracts/Penrose.sol 
 
 # Findings Summary 
 | ID           | Title                                                                                                                                                        | Severity | Status  |
