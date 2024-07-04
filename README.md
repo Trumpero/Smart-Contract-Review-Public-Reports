@@ -10,6 +10,7 @@ This repository contains a collection of recent auditing projects we've complete
 | [goat trading](https://www.goat.trading/) | [presale AMM](https://github.com/inedibleX/goat-trading/tree/b3349556530a49971d5ab5499691381ea384cb8e) | [report](/private/goat-trading_2024_03_08.md)
 | [goat trading](https://www.goat.trading/) | [tax token](https://github.com/inedibleX/goat-trading/tree/f60757d19fcc98e21bb075e9c790b473ce5a5326) | [report](/private/goat-trading_2024_04_16.md)
 | [tapioca dao](https://www.tapioca.xyz/) | [tapioca bar](https://github.com/Tapioca-DAO/Tapioca-bar/tree/71558e5a830a194c72ef4a9ef10a0f0997a3851e/contracts) | [report](/private/tapioca-dao_2024_05_15.md)
+| [goat trading](https://www.goat.trading/) | [lottery token](https://github.com/inedibleX/goat-trading/commit/0b847c1e66410f7ec9f2317766cc639049217195) | [report](/private/goat-trading_2024_06_05.md)
 
 ### Contest Highlights
 
