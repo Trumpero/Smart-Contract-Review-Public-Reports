@@ -321,4 +321,3 @@ The `createToken()` function of the factory contract is marked as payable, indic
 Remove the `payable` keyword from the `createToken()` function.
 #### Discussion
 Protocol team: fixed 
-
