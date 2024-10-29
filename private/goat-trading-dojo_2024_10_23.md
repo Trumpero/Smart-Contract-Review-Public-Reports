@@ -1,4 +1,4 @@
-# Goat Trading Security Review - 2024/08/27
+# Goat Trading Security Review - 2024/10/23
 ###### tags: `private`, `goat-trading`
 
 # Introduction 

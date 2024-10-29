@@ -12,7 +12,8 @@ This repository contains a collection of recent auditing projects we've complete
 | [tapioca dao](https://www.tapioca.xyz/) | [tapioca bar](https://github.com/Tapioca-DAO/Tapioca-bar/tree/71558e5a830a194c72ef4a9ef10a0f0997a3851e/contracts) | [report](/private/tapioca-dao_2024_05_15.md)
 | [goat trading](https://www.goat.trading/) | [lottery token](https://github.com/inedibleX/goat-trading/commit/0b847c1e66410f7ec9f2317766cc639049217195) | [report](/private/goat-trading_2024_06_05.md)
 | [goat trading](https://www.goat.trading/) | [limit order](https://github.com/inedibleX/goat-trading-dojo/commit/a73f8a245c5dd534db0d50de63921ac9fc962069) | [report](/private/goat-trading-dojo_2024_08_09.md)
-| [goat trading](https://www.goat.trading/) | [swap router]() + [tax token update]() | [report](/private/goat-trading-dojo_2024_08_27.md)
+| [goat trading](https://www.goat.trading/) | [swap router](https://github.com/inedibleX/v3-periphery-dojo/blob/f18910965b9f5c3ffc94e54a04b4ca18a12d1803/contracts/SwapRouter.sol) + [tax token update](https://github.com/inedibleX/goat-trading-dojo/blob/1c51f13ad6581e873e601e9a3f9abe390be78f40/src/tokens/TaxToken.sol) | [report](/private/goat-trading_2024_08_27.md)
+| [goat trading](https://www.goat.trading/) | [fund me token](https://github.com/Trumpero/goat-trading-dojo-audit_2024_10_23/blob/53197145fdce52b2d8a5ff293458970d6499b735/src/tokens/FundMeToken.sol) + [vesting launch token](https://github.com/Trumpero/goat-trading-dojo-audit_2024_10_23/blob/53197145fdce52b2d8a5ff293458970d6499b735/src/tokens/VestingLaunchToken.sol) | [report](/private/goat-trading-dojo_2024_10_23.md)
 
 ### Contest Highlights
 
